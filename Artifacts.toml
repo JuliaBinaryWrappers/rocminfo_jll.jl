@@ -1,0 +1,40 @@
+[[rocminfo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f341da27d93fe674b4aadb4a46cf221752ec5ea"
+libc = "glibc"
+os = "linux"
+
+    [[rocminfo.download]]
+    sha256 = "abe5cf943832a19ed5ae1e463fd0fecafda074ea4ac55fca00d0d9f281389f44"
+    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[rocminfo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ccda988e386be96f59d5195c5dab8bf1a78b604d"
+libc = "glibc"
+os = "linux"
+
+    [[rocminfo.download]]
+    sha256 = "f0b580236978e87463e0e753a925f8a8d9a928b4b5ee97c84d87733125feee04"
+    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[rocminfo]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "224d9f1067f71b4d31248d77070bc876c06c5925"
+libc = "musl"
+os = "linux"
+
+    [[rocminfo.download]]
+    sha256 = "590273395eb69a42576e94b514fc70af79416f43f7c485080a4faf1af9cc4ea3"
+    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[rocminfo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd477c1dcb8370c9475b5a7cd54d71e13f9e4ac8"
+libc = "musl"
+os = "linux"
+
+    [[rocminfo.download]]
+    sha256 = "28c2e8ffd0f1e4cdb24275678739797532784e66cd113da757c0e551b0ada2dc"
+    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-musl-cxx11.tar.gz"
