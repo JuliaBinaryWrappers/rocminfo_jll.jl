@@ -1,40 +1,20 @@
 [[rocminfo]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f341da27d93fe674b4aadb4a46cf221752ec5ea"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83ca28693f1d35742ce79a01ad20ca7aae4c971e"
 libc = "glibc"
 os = "linux"
 
     [[rocminfo.download]]
-    sha256 = "abe5cf943832a19ed5ae1e463fd0fecafda074ea4ac55fca00d0d9f281389f44"
-    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0f937cde5b8858957741e45368aa59233acb1e7a98ef4ffe1219f37b6392c76a"
+    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.2.0+0/rocminfo.v4.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[rocminfo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ccda988e386be96f59d5195c5dab8bf1a78b604d"
-libc = "glibc"
-os = "linux"
-
-    [[rocminfo.download]]
-    sha256 = "f0b580236978e87463e0e753a925f8a8d9a928b4b5ee97c84d87733125feee04"
-    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[rocminfo]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "224d9f1067f71b4d31248d77070bc876c06c5925"
+git-tree-sha1 = "07285bbdff48f890c9607f70af8b9029ec5c9eea"
 libc = "musl"
 os = "linux"
 
     [[rocminfo.download]]
-    sha256 = "590273395eb69a42576e94b514fc70af79416f43f7c485080a4faf1af9cc4ea3"
-    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-musl-cxx03.tar.gz"
-[[rocminfo]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bd477c1dcb8370c9475b5a7cd54d71e13f9e4ac8"
-libc = "musl"
-os = "linux"
-
-    [[rocminfo.download]]
-    sha256 = "28c2e8ffd0f1e4cdb24275678739797532784e66cd113da757c0e551b0ada2dc"
-    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.0.0+0/rocminfo.v4.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "3bab99d06ab56a5dacb16190b11600d42d47d4c008e451a26ed431d49d7a297b"
+    url = "https://github.com/JuliaBinaryWrappers/rocminfo_jll.jl/releases/download/rocminfo-v4.2.0+0/rocminfo.v4.2.0.x86_64-linux-musl-cxx11.tar.gz"
