@@ -1,6 +1,6 @@
 name = "rocminfo_jll"
 uuid = "5a766526-3cf8-5128-8c31-4f7b7ad60f0e"
-version = "5.2.3+0"
+version = "5.4.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
